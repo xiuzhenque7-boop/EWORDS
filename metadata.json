@@ -1,0 +1,6 @@
+{
+  "name": "English Word Dictation",
+  "description": "An interactive English word dictation and spelling application that extracts words from uploaded photos or files, automatically generates phonetic symbols, translations, and example sentences, and tracks misspelled words.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
